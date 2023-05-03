@@ -41,5 +41,20 @@ function datas() {
     yeux18: 'https://res.cloudinary.com/sarah3902/image/upload/v1683028846/Projet%20Indiv%20-%20LPW/test_yeux18_rvtsum.png',
     yeux19: 'https://res.cloudinary.com/sarah3902/image/upload/v1683028846/Projet%20Indiv%20-%20LPW/test_yeux19_iboycr.png',
     yeux20: 'https://res.cloudinary.com/sarah3902/image/upload/v1683028846/Projet%20Indiv%20-%20LPW/test_yeux20_sgekvb.png',
+
+
+    offf1: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136006/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-57_k7sbrw.jpg',
+    offf2: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136007/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-45-09_wwxvew.jpg',
+    offf3: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136007/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-45-03_nd6yay.jpg',
+    offf4: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136005/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-51_f99tsf.jpg',
+    offf5: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136005/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-43_hlahdm.jpg',
+    offf6: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136003/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-45-00_v37r9c.jpg',
+    offf7: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136002/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-36_ujleep.jpg',
+    offf8: 'https://res.cloudinary.com/sarah3902/image/upload/v1683136001/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-47_rx9vuf.jpg',
+    offf9: 'https://res.cloudinary.com/sarah3902/image/upload/v1683135997/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-02_lfui5o.jpg',
+    offf10: 'https://res.cloudinary.com/sarah3902/image/upload/v1683135997/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-40_okgjzj.jpg',
+    offf11: 'https://res.cloudinary.com/sarah3902/image/upload/v1683135997/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-28_q6zq4w.jpg',
+    offf12: 'https://res.cloudinary.com/sarah3902/image/upload/v1683135996/Projet%20Indiv%20-%20LPW/photo_2023-05-03_19-44-24_obdjj4.jpg',
+
     }
 }
