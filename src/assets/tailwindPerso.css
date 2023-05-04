@@ -53,3 +53,38 @@ h2 {
 .fondOcean {
     background: linear-gradient(180deg, rgb(226, 29, 88) 0%, rgb(27, 179, 52) 12.66%, rgb(30, 10, 209) 83.28%,  rgb(195, 207, 26) 100%);
 }
+
+.NFTs {
+    top: -360px;
+    width: 38%;
+}
+
+.animFlecheG {
+    animation: bounceHG 3s infinite;
+}
+
+@keyframes bounceHG {
+    0%, 100% {
+      transform: translateX(-15%);
+      animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+    }
+    50% {
+      transform: translateX(0);
+      animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+  }
+
+.animFlecheD {
+    animation: bounceHD 3s infinite;
+}
+
+@keyframes bounceHD {
+    0%, 100% {
+      transform: translateX(15%);
+      animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+    }
+    50% {
+      transform: translateX(0);
+      animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+  }
